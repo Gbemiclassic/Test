@@ -1,6 +1,6 @@
 ## Case Study Solutions
 
-** Question 1: Find the total number of products in each product category **
+**Question 1: Find the total number of products in each product category**
 ````sql
 SELECT
  PC.ProductCategoryKey,
